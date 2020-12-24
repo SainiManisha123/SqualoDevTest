@@ -1,11 +1,14 @@
 {
-  "name": "squalodevtest",
+  "name": "node",
   "version": "1.0.0",
-  "description": "A Test for aspirant Web Developers who wants to join our organisation",
-  "main": "index.js",
+  "description": "",
+  "main": "consumeapi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Squalo Solutions",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
